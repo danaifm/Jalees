@@ -1,6 +1,6 @@
 # Jalees
 <img src="https://i.ibb.co/bNjN2cc/logo.png" alt="Jalees' logo" border="0"><br>
-Jalees is a website created as a project for our Web Application Development (SWE381) course, which aims to help parents and babysitters alike to find temporary, scheduled babysitting job opportunities. 👶🏽
+Jalees is a website created as a project for our Web Application Development (SWE381) course, which aims to help parents and babysitters alike to find temporary, scheduled babysitting job opportunities. Jalees was built from scratch in 2 months and was made with lots of love! 👶🏽🤍
 
 # Features include:
 - Sign up as a parent or as a babysitter. 👨‍👩‍👧‍👦
