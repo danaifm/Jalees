@@ -1,4 +1,5 @@
 # Jalees
+![alt text](https://github.com/danaifm/Jalees/blob/css/images/logo.png?raw=true)
 Jalees is a website created as a project for our Web Application Development (SWE381) course, which aims to help parents and babysitters alike to find temporary, scheduled babysitting job opportunities.
 
 Features include:
