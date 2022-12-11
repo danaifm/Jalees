@@ -1,0 +1,63 @@
+/*no errors*/
+.jobs {
+    width: 75%;
+    margin: 5% auto;
+}
+
+article {
+    padding: 2%;
+    padding-bottom: 3%;
+    background-color: rgb(249, 245, 231);
+    width: 92%;
+    color:  #555;
+    border-radius: 7px;
+    margin-bottom: 3%;
+    display: inline-block;
+    margin-left: 5%;
+    border-radius: 50px;
+    border-style:dotted;
+    border-color: rgb(223, 203, 173);
+    border-width: 5px;
+    
+}
+
+.jobs p{
+    margin-top: 2%;
+}
+
+h4 {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.parentPicture{
+    width: 150px;
+    border-radius: 7px; 
+    float: left;
+    margin-top: 2%;
+    margin-right: 3%;
+    border-radius: 70px;
+}
+
+
+.footer {
+    font-size: smaller;
+    text-align: center;
+    color:rgb(155, 155, 129);
+    padding-top: 50px;
+    position: relative;
+    left:50%;
+    bottom: 0px;
+    transform: translate(-50%, -50%);
+  }
+
+  .footer a {
+    text-decoration: none;
+    font-size: small;
+    color:rgb(155, 155, 129)
+  }
+
+  .footer a:hover {
+    color:#555;
+    transition: 0.3s;
+  }

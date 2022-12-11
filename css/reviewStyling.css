@@ -1,0 +1,39 @@
+/*no errors*/
+.star-rating form {
+    display: none;
+}
+
+.star-rating input {
+    display: none;
+}
+.star-rating {
+    margin: 50px auto;
+    display: table;
+    width: 350px;
+}
+.star-rating label {
+    padding: 10px;
+    float: right;
+    font-size: 44px;
+    color: #eee;
+}
+.star-rating input:not(:checked) ~ label:hover,
+.star-rating input:not(:checked) ~ label:hover ~ label {
+    color: #ffc107;
+}
+.star-rating input:checked ~ label {
+    color: #ffc107;
+}
+.star-rating form .rating-reaction:before {
+    width: 100%;
+    float: left;
+    color: #ffc107;
+}
+
+.star-rating input:checked ~ form {
+    border-top: 1px solid #ddd;
+    width: 100%;
+    padding-top: 15px;
+    margin-top: 15px;
+    display: inline-block;
+}

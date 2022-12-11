@@ -1,0 +1,158 @@
+.req, .req.jobs, .bookings { /*no errors*/
+  width: 75%;
+  margin: 5% auto;
+}
+
+.bookings article .info {
+  overflow: auto;
+}
+
+.bookings article img {
+  float: left;
+}
+
+article {
+  padding: 2%;
+  padding-bottom: 3%;
+  background-color: rgb(249, 245, 231);
+  width: 92%;
+  color:  #555;
+  border-radius: 7px;
+  margin-bottom: 3%;
+  display: inline-block;
+  margin-left: 5%;
+  border-radius: 50px;
+  border-style:dotted;
+  border-color: rgb(223, 203, 173);
+  border-width: 5px;
+}
+
+.requestName {
+  margin-bottom: 10px;
+  color: rgb(60, 59, 59);
+  margin-top: 2%;
+}
+
+.requestPicture {
+  width: 150px;
+  border-radius: 7px; 
+  float: left;
+  margin-top: 2%;
+  margin-right: 3%;
+  border-radius: 70px;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
+
+.footer {
+  font-size: smaller;
+  text-align: center;
+  color:rgb(155, 155, 129);
+  position: relative;
+  left:50%;
+  bottom: 0px;
+  transform: translate(-50%, -50%);
+}
+
+.footer a {
+  text-decoration: none;
+  font-size: small;
+  color:rgb(155, 155, 129)
+}
+
+.footer a:hover {
+  color:#555;
+  transition: 0.3s;
+}
+
+.title {
+  font-weight: bolder;
+}
+
+.btn.btn-outline-secondary {
+  width: 23%;
+  margin-right: 1%;
+  margin-top: 1%;
+  border-radius: 30px;
+}
+
+.ratings{
+  margin-bottom: 1%;
+}
+
+.ratings i{
+  color:#cecece;
+  font-size:25px;
+}
+
+.reviews article {
+  padding-left: 4%;
+  padding-top: 2%;
+}
+
+.rating-color{
+  color:#fbc634 !important;
+}
+
+
+.modal-body .profile img{
+  float: left;
+width: 250px;
+margin-right: 5%;
+margin-left: 2%;
+border-radius: 50px;
+}
+
+
+.modal-body .profile .rev {
+  margin-left: -3%;
+  height: 500px;
+  overflow: scroll;
+}
+
+.modal-body .profile .info {
+  overflow: auto;
+}
+
+.modal-body .profile .info .btn.btn-outline-secondary {
+  width: 70%;
+  margin-bottom: 9%;
+  
+}
+
+.req.jobs article {
+  padding-left: 4%;
+}
+
+.req.jobs article a {
+  width: 30%;
+}
+
+.req.jobs article h4 {
+  margin-bottom: 2%;
+}
+
+
+.reviews {
+  width: 100%;
+  margin: 5% auto;
+  overflow: scroll;
+  height: 650px;
+}
+
+
+#textInput {
+  border-radius: 30px;
+}
+
+div.req article div.information {
+  overflow: auto;
+}
+
+
+div.req article img {
+  float: left;
+}

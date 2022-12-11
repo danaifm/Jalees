@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700,300italic);
+*, *:before, *:after { box-sizing: border-box; }
+html { font-size: 100%;  }
+body { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  background: #d0e6ef; 
+  color: #666;
+}
+
+
+h1 { 
+  color: #555; 
+  margin: 3rem 0 1rem 0; 
+  padding: 0;
+  font-size: 1.5rem;
+}
+
+
+
+#the-count {
+  float: right;
+  padding: 0.1rem 0 0 0;
+  font-size: 0.875rem;
+}

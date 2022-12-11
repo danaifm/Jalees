@@ -1,0 +1,115 @@
+body, html { /*no errors*/
+  height: 100%;
+  margin: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.hero {
+  height: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 80px;
+}
+
+#home.hero {
+  /* hero image from https://www.pexels.com/ */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/pexels-ivan-samkov-8504293.jpg"); 
+}
+
+#parent.hero {
+   /* hero image from https://www.pexels.com/ */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/pexels-artem-podrez-6951550.jpg");
+}
+
+#sitter.hero {
+  /* hero image from https://www.pexels.com/ */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/pexels-vlada-karpovich-4617294.jpg");
+}
+
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text .btn {
+  border: none;
+  border-radius: 30px;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: rgb(207, 198, 198);
+  text-align: center;
+  cursor: pointer;
+  margin: 4px;
+  font-size: 20px;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+  transition: 0.3s;
+}
+
+img {
+  margin:0;
+  width: 120%;
+}
+
+.image {
+  flex-basis: 50%
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 30%;
+  padding-right: 5%;
+  text-align: center;
+  padding-top: 150px;
+  position: absolute;
+  
+}
+
+.container.text-center {
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+
+.safety {
+  background-color: rgb(227, 217, 175);
+  height: 420px;
+  padding-right: 10px;
+}
+
+
+.footer {
+  font-size: smaller;
+  text-align: center;
+  color:rgb(155, 155, 129);
+  padding-top: 50px;
+  padding-bottom: 10px;
+  position: relative;
+  left:50%;
+  bottom: 20px;
+  transform: translate(-50%, -50%);
+  margin-top: 20px;
+}
+
+.footer a {
+  text-decoration: none;
+  font-size: small;
+  color:rgb(155, 155, 129)
+}
+
+.footer a:hover {
+  color:#555;
+  transition: 0.3s;
+}

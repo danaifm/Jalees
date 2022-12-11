@@ -1,0 +1,42 @@
+a{
+    color:rgb(155, 155, 129);
+}
+
+a:hover{
+    color:rgb(215, 210, 177);
+
+}
+
+  .vh-100 {
+    margin-top: 2%;
+}
+.btn.btn-outline-secondary.btn-lg {
+    border-radius: 30px;
+    width: 50%;
+}
+
+.btn.btn-secondary{
+    border-radius: 30px;
+    width:30%;
+}
+
+.footer {
+    font-size: smaller;
+    text-align: center;
+    color:rgb(155, 155, 129);
+    margin: 20px auto;
+  }
+
+.footer a {
+    text-decoration: none;
+    font-size: small;
+    color:rgb(155, 155, 129)
+  }
+
+  .footer a:hover {
+    color:#555;
+    transition: 0.3s;
+  }
+
+ 
+

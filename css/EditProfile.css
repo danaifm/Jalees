@@ -1,0 +1,124 @@
+/*no errors*/
+.profile{
+    position: relative;
+    width:200px;
+    height:200px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-left: 24%;
+}
+
+.profile_image{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-left: 24%;
+}
+
+.profile_hover{
+position: absolute;
+width:200px;
+height:200px;
+border-radius: 50%;
+z-index: 1;
+}
+
+.profile_closure{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(111, 111, 111);
+    border-radius: 50%;
+    transition: 0.3s;
+}
+
+.profile_text{
+    position: absolute;
+    color: #fff;
+    font-size: 13px;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s;
+
+}
+
+.profile_camera{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    visibility: visible;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.profile_hover:hover ~ .profile_closure{
+    width: 200px;
+    height: 200px;
+}
+
+.profile_hover:hover ~ .profile_text{
+    visibility: visible;
+    opacity:1 ;
+}
+
+.profile_hover:hover ~ .profile_camera{
+    visibility: hidden;
+    opacity:0 ;
+}
+
+a{
+    color:rgb(155, 155, 129);
+}
+
+a:hover{
+    color:rgb(215, 210, 177);
+
+}
+
+
+.vh-100 {
+    margin-top: 2%;
+    margin-bottom:65%;
+}
+.btn.btn-outline-secondary.btn-lg {
+    border-radius: 30px;
+    width: 50%;
+}
+
+.footer {
+    font-size: smaller;
+    text-align: center;
+    color:rgb(155, 155, 129);
+    position: relative;
+    margin-top:70%;
+    margin-right:0;
+}
+
+.footer a {
+    text-decoration: none;
+    font-size: small;
+    color:rgb(155, 155, 129)
+}
+
+.footer a:hover {
+    color:#555;
+    transition: 0.3s;
+}
+
+#errorMessage{
+    font-size:13px; 
+    text-align: left;
+}
