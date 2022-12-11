@@ -9,3 +9,14 @@ Features include:
 - View babysitter's offers, and accept or reject them.
 - Leave a review/rating for babysitters you've worked with.
 - Email or contact babysitters via whatsapp.
+
+Some screenshots:
+<img src="https://i.ibb.co/pfXf9ZH/Screen-Shot-2022-12-11-at-10-52-57-PM.png" alt="Screen-Shot-2022-12-11-at-10-52-57-PM" border="0">
+<br>
+<img src="https://i.ibb.co/1Ts3hw2/Screen-Shot-2022-12-11-at-10-53-16-PM.png" alt="Screen-Shot-2022-12-11-at-10-53-16-PM" border="0">
+<br>
+<img src="https://i.ibb.co/wsLvzDB/Screen-Shot-2022-12-11-at-10-56-03-PM.png" alt="Screen-Shot-2022-12-11-at-10-56-03-PM" border="0">
+<br>
+<img src="https://i.ibb.co/VSGR7T6/Screen-Shot-2022-12-11-at-10-56-45-PM.png" alt="Screen-Shot-2022-12-11-at-10-56-45-PM" border="0">
+<br>
+<img src="https://i.ibb.co/yhKq71S/Screen-Shot-2022-12-11-at-10-57-36-PM.png" alt="Screen-Shot-2022-12-11-at-10-57-36-PM" border="0">
