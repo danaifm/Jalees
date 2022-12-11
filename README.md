@@ -1,5 +1,5 @@
 # Jalees
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/bNjN2cc/logo.png" alt="logo" border="0" style="margin-left: 50px;"></a><br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bNjN2cc/logo.png" alt="logo" border="0" style="margin-left: 100px;"></a><br>
 Jalees is a website created as a project for our Web Application Development (SWE381) course, which aims to help parents and babysitters alike to find temporary, scheduled babysitting job opportunities.
 
 Features include:
